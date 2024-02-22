@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.contato {
+    display: flex;
+    gap: 10px;
+}
+
+footer hr {
+    width: 70%;
+    border-color: #0A3871;
+    opacity: 0.4;
+    margin: 10px auto;
+}
+
+.imgGit {
+    width: 25px;
+    height: 25px;
+}
+
+.imgLinkedin {
+    width: 25px;
+    height: 25px;
+}
+
+.textoFooter {
+    color: #0A3871;
+}

@@ -1,0 +1,6 @@
+@media (max-width: 1052px) {
+    main {
+      flex-direction: column;
+      gap: 50px;
+    }
+}

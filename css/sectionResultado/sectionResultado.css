@@ -1,0 +1,12 @@
+#sectionResultado {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 692px;
+    width: 400px;
+    padding: 32px;
+    background-color: white;
+    border-radius: 32px;
+    text-align: center;
+}

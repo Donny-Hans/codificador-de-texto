@@ -1,0 +1,50 @@
+.buttons {
+    display: flex;
+    width: 90%;
+    gap: 24px;   
+}
+
+.botao1 {
+    background-color: #0A3871;
+    color: white;
+    width: 20rem;
+    padding: 15px;
+    border-radius: 24px;
+    font-size: 16px;
+    border: #0A3871;
+}
+
+.botao1:active {
+    transform: translateY(10px);
+}
+
+.botao2 {
+    background-color: #D8DFE8;
+    color: #0A3871;
+    width: 20rem;
+    padding: 15px;
+    border-radius: 24px;
+    font-size: 16px;
+    border: solid 1px #0A3871;
+}
+
+.botao2:active {
+    transform: translateY(10px);
+}
+
+
+#butaoCopiar {
+    background-color: white;
+    color: #0A3871;
+    width: 304px;
+    padding: 15px;
+    margin-top: 150px;
+    border-radius: 24px;
+    align-items: flex-start;
+    font-size: 16px;
+    border: solid 1px #0A3871;
+}
+
+#butaoCopiar:active {
+    transform: translateY(10px);
+}

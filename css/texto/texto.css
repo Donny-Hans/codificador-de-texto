@@ -1,0 +1,10 @@
+#texto {
+    background-color: #7159c1;
+    color: #104c94;
+    font-size: 32px;
+    letter-spacing: 1px;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+}

@@ -1,0 +1,17 @@
+@media (max-width: 1052px) {
+    #sectionResultado {
+      height: 300px;
+    }
+}
+
+@media (max-width: 1052px) {
+    #sectionResultado {
+      width: 100%;
+    }
+}
+
+@media (max-width: 1156px) {
+    #sectionResultado {
+      width: 286px;
+    }
+}

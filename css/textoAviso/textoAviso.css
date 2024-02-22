@@ -1,0 +1,12 @@
+.textoAviso {
+    display: flex;
+    flex-direction: start;
+    align-items: center;
+    width: 90%;
+    margin-top: 100px;
+    gap: 3px;
+}
+
+.aviso {
+    white-space: nowrap;
+}
