@@ -27,7 +27,7 @@ Bem-vindo ao projeto de um site que funciona como um codificador e decodificador
 Clique no botão `Decodificar` para recuperar a mensagem original.
 # Imagem do Projeto
 <div align = "center">
-  <img align="center"  width="700" src="https://github.com/Donny-Hans/site-challenge/assets/95449671/ee8289aa-306e-460a-830e-d0267e24a71e">
+  <img align="center"  width="700" src="https://github.com/Donny-Hans/codificador-de-texto/issues/1#issue-2149788225">
 </div>
 
 # funcionalidades
