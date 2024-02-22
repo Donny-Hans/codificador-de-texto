@@ -27,7 +27,7 @@ Bem-vindo ao projeto de um site que funciona como um codificador e decodificador
 Clique no botão `Decodificar` para recuperar a mensagem original.
 # Imagem do Projeto
 <div align = "center">
-  <img align="center"  width="700" src="https://github.com/Donny-Hans/codificador-de-texto/issues/1#issue-2149788225">
+  <img align="center"  width="700" src="https://private-user-images.githubusercontent.com/95449671/307124435-794ec349-6bdb-4f20-a5bb-6b7708b381cb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2MzAzMjcsIm5iZiI6MTcwODYzMDAyNywicGF0aCI6Ii85NTQ0OTY3MS8zMDcxMjQ0MzUtNzk0ZWMzNDktNmJkYi00ZjIwLWE1YmItNmI3NzA4YjM4MWNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIyVDE5MjcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZTExMWQ3NTM4YTY1OGEyZGI5ZGNjNzNmNzVhOTU4OTAyNWE4MmFlYTE0NWVhZGNhOGIxZDU0ZGJhMjAwY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.X-iadBxX3gM5kUkJm1J-JINfcySKaExZW_JBFgKN6Tw">
 </div>
 
 # funcionalidades
